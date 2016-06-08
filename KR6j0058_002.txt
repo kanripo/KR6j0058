@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:56.125194
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:08
 #+TITLE: 佛說瑜伽大教王經
 #+PROPERTY: CBETA_ID T18n0890
 #+PROPERTY: ID KR6j0058
@@ -19,7 +19,7 @@
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
 
-4三摩地品
+* 4三摩地品
 :PROPERTIES:
 :head: 三摩地品第四
 :END:
