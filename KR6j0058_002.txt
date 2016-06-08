@@ -1,29 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:56.125194
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:08
 #+TITLE: 佛說瑜伽大教王經
 #+PROPERTY: CBETA_ID T18n0890
 #+PROPERTY: ID KR6j0058
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 890
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0058_T_000-0559b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:KR6j0058_T_002-0564a> ¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6j0058_T_002-0564a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 佛說瑜伽大教王經卷第二¶
+佛說瑜伽大教王經卷第二¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
 
-4三摩地品
-:PROPERTIES:
-:head: 三摩地品第四
-:END:
-¶
+* 三摩地品第四¶
 
 爾時世尊大遍照金剛如來。入大智力變化¶
 圓滿三摩地。從定出已。告金剛手大菩薩言。¶
@@ -83,8 +78,7 @@
 右第一手作施願印第二手作無畏印。第三¶
 手持金剛杵。第四手持箭。左第一手持羂索。¶
 頭指竪立作期剋印。第二手持寶樹枝。第三¶
-手持數珠。第四手持弓。放赤色光明化佛¶
-如雲。如是觀想大智。金剛諸天驚怖。悉皆合¶
+手持數珠。第四手持弓。放赤色光明化佛如雲。如是觀想大智。金剛諸天驚怖。悉皆合¶
 掌作禮。如是觀想佛眼菩薩。以菩提分力而¶
 為裝嚴。此名佛眼變化大智金剛三摩地。¶
 
